@@ -1,26 +1,42 @@
 import { React } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
-import { Header } from "./components/header";
+import Navbar from "./components/Navbar";
 
-import { HomePage } from "./components/homepage";
-
-import {Footer} from "./components/footer";
-// import aboutme from './aboutme';
+// import Navbar from "./components/Navbar";
+// import { Header } from "./components/Header";
+// import { HomePage } from "./components/Homepage";
+// import { AboutMe } from "./components/Aboutme";
+// import { Resume } from "./components/Resume";
+// import { Footer } from "./components/Footer";
 
 //jsx allows us to inject HTML into our Javascript files
 function App() {
-  return (
-    <div className="App">
-      <Router>
+  return <Navbar />
+    // <div className="App">
+      // {
+      /* <Router>
+        <Route path="/Header" element={<Header />}></Route>
         <Routes>
-          <Route path="/Header" element={<Header />}></Route>
+          <Route path="/Navbar" element={<Navbar />}></Route>
           <Route path="/HomePage" element={<HomePage />}></Route>
+          <Route path="/AboutMe" element={<AboutMe />}></Route>
+          <Route path="/Resume" element={<Resume />}></Route>
           <Route path="/Footer" element={<Footer />}></Route>
         </Routes>
-      </Router>
-    </div>
-  );
-}
+      </Router> */
+      
+      /* <div className="backGroundColor">
+        style = {{
+          backGroundColor: "green",
+          width: "100px",
+          height: "100px"
+        }}
+        
+      </div> */}
+    // </div>
+    
+  // );
+
 
 export default App;
