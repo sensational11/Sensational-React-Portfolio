@@ -1,11 +1,17 @@
-import React from "react";
+import React  from "react";
 
-function contactme() {
+function ContactMe(){
+
     return (
-        <div>
-            <h1> Welcome To My Contact Me</h1>
-        </div>
+        <h1> 
+            Contact Me
+        </h1>
     )
 }
+    
+        
+    
 
-export default contactme;
+
+export {ContactMe};
+

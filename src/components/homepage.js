@@ -1,10 +1,10 @@
 import React  from "react";
 
-function AboutMe(){
+function HomePage(){
 
     return (
         <h1> 
-            About Me
+            Home Page
         </h1>
     )
 }
@@ -13,5 +13,4 @@ function AboutMe(){
     
 
 
-export {AboutMe};
-
+export {HomePage};

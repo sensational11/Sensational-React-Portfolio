@@ -1,11 +1,17 @@
-import React from "react";
+import React  from "react";
 
-function resume() {
+function Resume(){
+
     return (
-        <div>
-            <h1> Welcome To My Resume Portal</h1>
-        </div>
+        <h1> 
+            Resume
+        </h1>
     )
 }
+    
+        
+    
 
-export default resume;
+
+export {Resume};
+

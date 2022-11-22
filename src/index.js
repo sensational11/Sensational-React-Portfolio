@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'; //import virtal dom
 import './index.css'; //import css
 import App from './App'; //import app.js
 import reportWebVitals from './reportWebVitals';
+import "./components/homepage";
 //index.js is where you import the virtual dom
 //targeting the root id from the HTML file
 const root = ReactDOM.createRoot(document.getElementById('root'));
