@@ -1,11 +1,11 @@
 import React from "react";
 
-function Resume() {
+function About() {
   return (
     <section>
-      <h1>Resume</h1>
+      <h1>About Me</h1>
     </section>
   );
 }
 
-export default Resume;
+export default About;
