@@ -11,7 +11,7 @@ body {
   margin: 0;
 }
 
-.navigation {
+.navbar {
   background-color: blanchedalmond;
   color: black;
   display: flex;
@@ -20,11 +20,9 @@ body {
   
 }
 
-.navigation-title {
-  font-size: 3rem;
-}
 
-.navigation ul {
+
+.navbar ul {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -33,7 +31,7 @@ body {
   font-size: 1.5rem;
 }
 
-.navigation a {
+.navbar a {
   color: inherit;
   text-decoration: none;
 }

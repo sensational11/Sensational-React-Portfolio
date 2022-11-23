@@ -13,19 +13,20 @@ import Footer from "./components/Footer";
 //jsx allows us to inject HTML into our Javascript files
 function App() {
    
+   
     
   const [pages] = useState([
     {
-      name: "About Me",
+      name: "aboutme",
     },
     {
-      name: "Projects",
+      name: "projects",
     },
     {
-      name: "Contact",
+      name: "contact",
     },
     {
-      name: "Resume",
+      name: "resume",
     },
   ]);
   const [currentPage, setCurrentPage] = useState(pages[0]);
@@ -35,6 +36,7 @@ function App() {
     { <div>
       <img src={sneakerbg} alt = "this is sneaker bg" />
     </div> }
+    
       <Header>
         <Navbar
           pages={pages}
@@ -43,6 +45,7 @@ function App() {
         ></Navbar>
       </Header>
       <main>
+        
         <HomePage currentPage={currentPage}></HomePage>
       </main>
       <Footer />
