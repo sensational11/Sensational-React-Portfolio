@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import sneakerbg from "./images/sneakerbg.jpg";
 import "./App.css";
 import Navbar from "./components/Navbar";
 
@@ -11,6 +12,8 @@ import Footer from "./components/Footer";
 
 //jsx allows us to inject HTML into our Javascript files
 function App() {
+   
+    
   const [pages] = useState([
     {
       name: "About Me",
@@ -29,6 +32,9 @@ function App() {
 
   return (
     <>
+    { <div>
+      <img src={sneakerbg} alt = "this is sneaker bg" />
+    </div> }
       <Header>
         <Navbar
           pages={pages}

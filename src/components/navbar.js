@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+
 // import HomePage from "./Homepage";
 
 export default function Navbar(props) {

@@ -1,6 +1,11 @@
-* {
-  box-sizing: border-box;
+*
+.app {
+  background-image: url(./images/sneakerbg.jpg);
+ 
 }
+
+
+
 
 body {
   margin: 0;
