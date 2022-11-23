@@ -26,7 +26,7 @@ function Contact() {
         <div>
             <label>
                 Email*
-                <Input value= "email@email.com" name="email" validations={[required, email]}/>
+                <Input value= "" name="email" validations={[required, email]}/>
             </label>
         </div>
         <div>
