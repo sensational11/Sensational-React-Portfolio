@@ -1,5 +1,6 @@
 import React from "react"; //because of webpack you can say "import" instead of require
 import ReactDOM from "react-dom/client"; //import virtal dom
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./index.css"; //import css
 import App from "./App"; //import app.js
 import reportWebVitals from "./reportWebVitals";
