@@ -2,9 +2,9 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer>
-      <h1>Footer</h1>
-    </footer>
+    <div className="foot">
+      Copyright 2022 Mack Nelson. All Rights Reserved
+    </div>
   );
 }
 

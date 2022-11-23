@@ -4,7 +4,9 @@
  
 }
 
-
+.header-react {
+  background-color: #282c34;
+}
 
 
 body {
@@ -12,7 +14,7 @@ body {
 }
 
 .nav{
-  background-color: blanchedalmond;
+  background-color: firebrick;
   color: black;
   display: flex;
   justify-content: space-around;
@@ -36,7 +38,9 @@ body {
   text-decoration: none;
 }
 
-
+.foot {
+  text-align: center;
+}
 
 
 
