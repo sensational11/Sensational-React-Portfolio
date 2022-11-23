@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-    { <div>
+    { <div className="sneaker">
       <img src={sneakerbg} alt = "this is sneaker bg" />
     </div> }
     
