@@ -11,7 +11,7 @@ body {
   margin: 0;
 }
 
-.navbar {
+.nav{
   background-color: blanchedalmond;
   color: black;
   display: flex;
@@ -22,7 +22,7 @@ body {
 
 
 
-.navbar ul {
+.nav ul {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -31,7 +31,7 @@ body {
   font-size: 1.5rem;
 }
 
-.navbar a {
+.nav a {
   color: inherit;
   text-decoration: none;
 }

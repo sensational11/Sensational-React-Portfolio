@@ -9,7 +9,7 @@ export default function Navbar(props) {
   }, [currentPage]);
 
   return (
-    <div>
+    <div className="nav">
       <ul>
         {pages.map((HomePage) => (
           <li
