@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import sneakerbg from "./images/sneakerbg.jpg";
+
 import "./App.css";
 import Navbar from "./components/Navbar";
 
@@ -33,10 +33,7 @@ function App() {
 
   return (
     <>
-    { <div className="sneaker">
-      <img src={sneakerbg} alt = "this is sneaker bg" />
-    </div> }
-    
+ 
       <Header>
         <Navbar
           pages={pages}

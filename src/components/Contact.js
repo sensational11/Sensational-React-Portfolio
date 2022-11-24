@@ -25,16 +25,27 @@ function Contact() {
         <h3>Contact Form</h3>
         <div>
             <label>
-                Email*
-                <Input value= "" name="email" validations={[required, email]}/>
+                Name*
+                <Input value= "" name="name" validations={[required, ]}/>
             </label>
         </div>
         <div>
-            {/* <label>
-                Name*
-                <Input
-            </label> */}
+            <label>
+                Email*
+                <Input value= "" name="email" validations={[required, email ]}/>
+            </label>
         </div>
+        <div>
+            <label>
+                Message*
+                <Input value= "" name="message" validations={[required,]}/>
+            </label>
+            <div>
+            <input type= "submit" value="Submit"></input>
+            
+            </div>
+        </div>
+        
       </Form>
     </section>
   );
