@@ -6,6 +6,30 @@ function Resume() {
       <div className="pdfresume">
         <a href = {reactresume}>My React Resume</a>
       </div>
+      <br>
+      </br>
+      <div className="proficiences">
+        <ul>
+            <li>
+                React
+            </li>
+            <li>
+                Javascript
+            </li>
+            <li>
+                Node
+            </li>
+            <li>
+                MySQL
+            </li>
+            <li>
+                MonogoDB
+            </li>
+            <li>
+                JQuery
+            </li>
+        </ul>
+      </div>
     </section>
   );
 }
