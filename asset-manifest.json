@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sensational-react-portfolio/static/css/main.7b790c0b.css",
-    "main.js": "/sensational-react-portfolio/static/js/main.344c899c.js",
-    "static/js/787.336966bf.chunk.js": "/sensational-react-portfolio/static/js/787.336966bf.chunk.js",
-    "static/media/ReactResume.pdf": "/sensational-react-portfolio/static/media/ReactResume.ebb3cfd433eaac4b0ee0.pdf",
-    "static/media/sneakerbg.jpg": "/sensational-react-portfolio/static/media/sneakerbg.05f4c73e39d12b80bec8.jpg",
-    "static/media/staticshock.jpg": "/sensational-react-portfolio/static/media/staticshock.e44825cab684935e3553.jpg",
-    "static/media/firstbaby.jpg": "/sensational-react-portfolio/static/media/firstbaby.0043df7e9c73c2e930f5.jpg",
-    "static/media/meta8.jpg": "/sensational-react-portfolio/static/media/meta8.f4182364c8c900ac9b2f.jpg",
-    "static/media/passwordgenerate.jpg": "/sensational-react-portfolio/static/media/passwordgenerate.8da401142564f2a215a5.jpg",
-    "index.html": "/sensational-react-portfolio/index.html",
-    "main.7b790c0b.css.map": "/sensational-react-portfolio/static/css/main.7b790c0b.css.map",
-    "main.344c899c.js.map": "/sensational-react-portfolio/static/js/main.344c899c.js.map",
-    "787.336966bf.chunk.js.map": "/sensational-react-portfolio/static/js/787.336966bf.chunk.js.map"
+    "main.css": "/Sensational-React-Portfolio/static/css/main.2339f41f.css",
+    "main.js": "/Sensational-React-Portfolio/static/js/main.3780d9d2.js",
+    "static/js/787.336966bf.chunk.js": "/Sensational-React-Portfolio/static/js/787.336966bf.chunk.js",
+    "static/media/ReactResume.pdf": "/Sensational-React-Portfolio/static/media/ReactResume.ebb3cfd433eaac4b0ee0.pdf",
+    "static/media/sneakerbg.jpg": "/Sensational-React-Portfolio/static/media/sneakerbg.05f4c73e39d12b80bec8.jpg",
+    "static/media/staticshock.jpg": "/Sensational-React-Portfolio/static/media/staticshock.e44825cab684935e3553.jpg",
+    "static/media/firstbaby.jpg": "/Sensational-React-Portfolio/static/media/firstbaby.0043df7e9c73c2e930f5.jpg",
+    "static/media/meta8.jpg": "/Sensational-React-Portfolio/static/media/meta8.f4182364c8c900ac9b2f.jpg",
+    "static/media/passwordgenerate.jpg": "/Sensational-React-Portfolio/static/media/passwordgenerate.8da401142564f2a215a5.jpg",
+    "index.html": "/Sensational-React-Portfolio/index.html",
+    "main.2339f41f.css.map": "/Sensational-React-Portfolio/static/css/main.2339f41f.css.map",
+    "main.3780d9d2.js.map": "/Sensational-React-Portfolio/static/js/main.3780d9d2.js.map",
+    "787.336966bf.chunk.js.map": "/Sensational-React-Portfolio/static/js/787.336966bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b790c0b.css",
-    "static/js/main.344c899c.js"
+    "static/css/main.2339f41f.css",
+    "static/js/main.3780d9d2.js"
   ]
 }
