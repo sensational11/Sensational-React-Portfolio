@@ -5,6 +5,16 @@ import meta8 from "../images/meta8.jpg";
 function Projects() {
   return (
     <section>
+      <div className="chesstutorial">
+        <img src={chesstutorial} alt="this is my chess tutorial project" />
+        <a href="https://github.com/MadeOfBees/chess-tutorials">
+          Chess Tutorial Repo
+        </a>{" "}
+        <br></br>
+        <a href="https://chesstutorials.netlify.app/">
+          Chess Tutorial Assignment
+        </a>
+      </div>
       <div className="passwordgeneratorproject">
         <img src={passwordgenerate} alt="this is my password generator project" />
         <a href="https://github.com/sensational11/Password-Generator">
